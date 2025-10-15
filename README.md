@@ -1,4 +1,6 @@
 ### Hi, I'm Charles
 
-just an ordinary student that love to code
+I code when I'm bored
+
+[![Gregorious's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 
