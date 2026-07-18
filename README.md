@@ -1,7 +1,7 @@
 # 💫 Hi, nice to meet you:
 My name is Charles<br><br>
 And I code when I getting bored
-<br><br>Studying Computer Science (Hons. Cyber Security) at the Asia Pacific University, Malaysia<br>Love to play Chess, Basketball and Mobile Legends<br>
+<br><br>Studying Computer Science (Hons. Cyber Security) at the Asia Pacific University, Malaysia<br>Love to play Chess, Piano and Basketball<br>
 
 
 # 💻 Tech Stack:
